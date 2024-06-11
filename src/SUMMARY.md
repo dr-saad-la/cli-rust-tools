@@ -1,10 +1,11 @@
-# Summary
+# Rust Command Line Tools
 
-# Introduction
-
-- [Introduction](introduction.md)
+[Rust Command Line Tools](title-page.md)
+[Preface](preface.md)
+[Introduction](introduction.md)
 
 # Rust Toolchain: Rustup
+
 - [Overview of Rustup](rustup/overview.md)
 - [Installing Rust with Rustup](rustup/installation.md)
 - [Managing Rust Toolchains](rustup/managing-toolchains.md)
