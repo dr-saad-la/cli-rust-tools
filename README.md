@@ -1,6 +1,6 @@
 # Rust Command Line Tools
 
-![Build Status](https://github.com/dr-saad-la/cli-rust-tools/workflows/mdbook/badge.svg)
+![Build Status](https://github.com/dr-saad-la/cli-rust-tools/workflows/mdbook.yml/badge.svg)
 
 Welcome to the "Rust Command Line Tools" online book. This comprehensive guide delves into the essential command line tools for the Rust programming language, providing in-depth coverage of `rustup`, `cargo`, and `rustdoc`. Whether you are a beginner or an experienced developer, this book aims to enhance your proficiency in utilizing these tools to manage Rust projects efficiently.
 
