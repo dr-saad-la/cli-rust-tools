@@ -1,0 +1,6 @@
+[book]
+authors = ["dr-saad-la"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Rust Command Line Tools"
